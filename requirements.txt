@@ -1,0 +1,10 @@
+aiohttp
+attrs
+bcrypt
+SQLAlchemy
+pydantic
+typing_extensions
+yarl
+pycparser
+pycares
+multidict
